@@ -1,5 +1,5 @@
 # Rethinking Mitosis Detection: Towards Diverse Data and Feature Representation for Better Domain Generalization
-![outline](MitDet.png)
+![outline](figures/MitDet.png)
 
 ## Introduction
 The iplementation of:
